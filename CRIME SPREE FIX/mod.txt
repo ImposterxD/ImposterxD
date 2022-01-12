@@ -1,0 +1,16 @@
+{
+	"name" : "CRIME SPREE FIX",
+	"description" : "CALL ME MAISTER",
+	"author" : "My Mom not",
+	"contact" : "callmeperfectass@gmail.com",
+	"version" : "2.3",
+	"priority" : 96,
+	"blt_version" : 2,
+	"color" : "0 255 255",
+	"hooks": [
+		{
+			"hook_id": "lib/tweak_data/crimespreetweakdata",
+			"script_path": "cri.lua"
+		}
+	]
+}self .missions [i] [i2] .add = 130491 - - change this to the value you want
